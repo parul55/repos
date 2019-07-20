@@ -7,3 +7,6 @@ public class Book{
 public void setBookId(int bookID){
 	this.bookID=bookid;
 }
+public int getbookid(){
+	return bookID;
+}
