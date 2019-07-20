@@ -4,3 +4,6 @@ public class Book{
 	private String author;
 	private float price;
 }
+public void setBookId(int bookID){
+	this.bookID=bookid;
+}
