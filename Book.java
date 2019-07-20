@@ -10,3 +10,6 @@ public void setBookId(int bookID){
 public int getbookid(){
 	return bookID;
 }
+public void setAuthor(String author){
+	this.author=author;
+}
